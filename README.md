@@ -2,6 +2,10 @@
 
 This Python script replaces all shortcut files (`.lnk`) in the current working directory with new ones that have the same target.
 
+## Why did I created this script?
+
+I was bored of getting missing/broken shortcut's icons, so I created this script in order to fix this by refreshing the missing/broken icons. It works for me, so if you have the same problem, now you have a solution!
+
 ## Dependencies
 
 This script depends on the following Python packages:
